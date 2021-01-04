@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: rgb(243, 255, 80);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    }
+    .half-width img{
+        width: 100%;
+    }
