@@ -20,8 +20,11 @@ h2{
     margin: 1%;
     padding: 1%;
     }
-    .half-width img{
-        width: 100%;
+    .intro-image img{
+        width: 80%;
+    }
+    .dream-image img{
+        width: 90%;
     }
     .back-image{
         background-repeat: no-repeat;
